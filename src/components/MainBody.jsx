@@ -3,7 +3,7 @@ import UpperSection from "./UpperSection";
 
 function MainBody() {
   return (
-    <div>
+    <div className="px-3">
       <UpperSection />
       <LowerSection />
     </div>
